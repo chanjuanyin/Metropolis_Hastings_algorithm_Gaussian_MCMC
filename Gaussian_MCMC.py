@@ -1,5 +1,5 @@
 """
-Matropolis-Hastings algorithm implementation based on Gaussian (normal 
+Metropolis-Hastings algorithm implementation based on Gaussian (normal 
 distribution) Markov Chain Monte Carlo mathematical model.
 """
 
